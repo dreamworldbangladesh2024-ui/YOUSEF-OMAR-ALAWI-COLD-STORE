@@ -1,0 +1,14 @@
+name: yousef_coldstore
+description: Yousef Omar Alawi Cold Store Khata App
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hive_flutter: ^1.1.0
+
+flutter:
+  uses-material-design: true
